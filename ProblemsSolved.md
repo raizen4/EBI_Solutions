@@ -1,7 +1,7 @@
 # Notes
 Due to the limited time given and the fact that I had to do in parallel 2 more technical tests, I have unfortunately not been able to code the solutions for these problems. To show you how I architect my code, what technologies I use and the industry best practices that I follow, I will include here an extra piece of work I have done in the way of a website for reading news (on github)
 
-# Link to project showcase here: https://github.com/raizen4/TouchSystemsSubmission
+# Link to project showcase here: https://github.com/raizen4/TouchSystemSubmission
 
 
 # Problem 1: Space Station
