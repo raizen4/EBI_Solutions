@@ -6,8 +6,9 @@ Due to the limited time given and the fact that I had to do in parallel 2 more t
 
 # Problem 1: Space Station
 ## Part 1 a)
-
 This problem relates to optimising the time needed to get all five astronouts from one point to the other in 21 minutes without letting anybody behind or in transit after the time is up.
+
+There has been an accident on the ISS and we know that it has been split in 2. One part is losing oxygen at an alarmant rate and has 21 minutes until the staff will die. The staff is made of 5 astronauts that need to escape to the other platform.
 
 There are only two suits available and 2 astronauts must go each time to the next platform such that one can go back with a spare space suit.
 
@@ -15,7 +16,7 @@ Each astronaut has his/her own speed of traveling and if an astronaut that is fa
 
 We assume that in the time required for each astronaut to make the jurney from platform A to platform B we include the time needed to put the space suit on/take it off and the negotiating of the air lock.
 
-We cannot throw space suits from one platform to another and we are not allowed to have anybody in transit whilst the 
+We cannot throw space suits from one platform to another and we are not allowed to have anybody in transit after the 21st minute.
 
 ## Part 1 b)
 Given that in the example provided the fastest way of travelling is shown with Neil being the one that helps others travel to the next platform (as he is the fastest who can come back from there), I cannot see a better solution to this problem without making some assumptions. This is because we know that we only have 2 available suits and 2 astronauts must go each time to the next platform without having the possibiliy to pass back somehow the space suits in transit.
