@@ -64,12 +64,12 @@ So the answer is : 2 * 2 * 9
 # Problem 3: The cursed Temple
 ## Part 1 a)
 
-This is a decisional problem with an optimization aspect because we must make sure the groups we create are optimized such that the liars cannot win. We are told we are in a cursed temple that is collapsing in no more than 1 hour. There are 4 paths to explore and 9 individuals. We know that from these 9, 2 of them lie sometimes but we do not know who and we cannot find out. The group leader cannot be the liar.
+ We are told we are in a cursed temple that is collapsing in no more than 1 hour. There are 4 paths to explore and 9 individuals. We know that from these 9, 2 of them lie sometimes but we do not know who and we cannot find out. The group leader cannot be the liar.
 
 We are being told then that it takes 20 minutes to go one path. We are also told that if we are to go on all paths at once it would take 40 minutes (20- each way) to get back which will leave us exactly 20 minutes to get out on the correct way. The whole objective is to make sure that the liars do not win and the grop does not perish.
 
 ## Part 1 b)
-This problem is an optimization problem in the aspect that we need to somehow make sure that the way we are splitting groups will not let the liars win. There are a lot of options in which we can break the group to go on the 4 paths we could take. For the sake of simplicity, I decided that the group leader should take a path just him as we know he is not a liar. So we have 3 paths and 8 people to assign to these paths. 
+This is a decisional problem with an optimization aspect because we must make sure the groups we create are optimized such that the liars cannot win. There are a lot of options in which we can break the group to go on the 4 paths we could take. For the sake of simplicity, I decided that the group leader should take a path just him as we know he is not a liar. So we have 3 paths and 8 people to assign to these paths. 
 
 In deciding how to get the best combination, I have taken some assumptions and made some rules.
 
